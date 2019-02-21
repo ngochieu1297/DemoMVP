@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">DemoMVP</string>
+    <string name="string_password">Password</string>
+    <string name="string_login">Login</string>
+    <string name="string_sign_up">Sign up</string>
+    <string name="string_continue">Continue</string>
+    <string name="string_confirm">Confirm</string>
+    <string name="string_user_name">Username</string>
+    <string name="string_login_success">Login Success!</string>
+    <string name="string_login_error">Login Error</string>
+    <string name="string_empty">Username or Password is Empty!</string>
+    <string name="string_incorrect">Incorect Password</string>
+    <string name="string_correct">Wecomel to Demo MVP</string>
 </resources>
